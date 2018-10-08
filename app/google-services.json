@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10463697063",
+    "firebase_url": "https://face-check-76cc6.firebaseio.com",
+    "project_id": "face-check-76cc6",
+    "storage_bucket": "face-check-76cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10463697063:android:3d89ab24790d015e",
+        "android_client_info": {
+          "package_name": "com.check.face.facecheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10463697063-te943cmbviret7fe1fdiqf8kuk7t179b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc1NVtXR1lQHVlq32ux4be7jlNqOUQQ0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
